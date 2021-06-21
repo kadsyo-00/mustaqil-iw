@@ -1,0 +1,12 @@
+.icon{
+  width: 30px !important;
+  height: 20px !important;
+  border: 2px !important;
+  margin: 0 !important;
+}
+.carousel-indicators{
+ width: 80px;
+ height: 80px;
+ display: block !important;
+ margin: 0 auto;
+}
